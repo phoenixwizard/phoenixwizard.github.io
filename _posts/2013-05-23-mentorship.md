@@ -8,7 +8,7 @@ tags:
   - Career
 ---
 
-Originally posted on https://medium.com/@phoenixwizard/mentorship-c1da3e72eefb
+Originally posted on [medium here](https://medium.com/@phoenixwizard/mentorship-c1da3e72eefb).
 
 When was the last time you were in the cross-roads of life and wondered which is the path to take? Is it the Frostian path (Road less taken) or is it the tried and tested path which will make you go with the herd? If you go the road less taken how do you tread ahead? If you go with the herd how will you stand out?
 

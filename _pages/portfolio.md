@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /portfolio/
+title: "About / Portfolio"
 ---
 
 <img src="/assets/images/office1.jpg" alt="Aram brewing coffee" style="max-width: 600px;"/>

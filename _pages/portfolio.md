@@ -116,7 +116,6 @@ Create a complete E-Commerce solution from scratch up.
 
 #### Intern / Software Engineer / Senior Software Engineer
 Kuliza Technologies  (January 2011 - June 2012)<br>
-<em> <sup>(Rails / Blackberry / Java / Android)</sup></em>
 
 - Was part of the core team building an app for ephimeral messaging.
 - Built the Blackberry app and the Backend in Spring Framework

@@ -11,12 +11,20 @@ title: "About / Portfolio"
 Technology Leader having vast experience scaling teams and technology towards success.
 Work perfectly with both remote and on premise teams.
 Experience leading teams and working with teams who are based out of different parts of the world.
-Comfortable with backend and front-end development, also fluent with Linux systems for various deployments & infrastructure purposes.
+Expertise in building scalable systems with good knowledge of infrastructure/DevOps and Frontend technologies.
 
 ### WORK EXPERIENCE
 
+#### Head of Engineering, Consolidate Health
+(August 2023 - Present)
+
+ - Helping patients get control of their health data
+ - Build and manage 1 stop solution to view health records from multiple platforms
+
+****
+
 #### Senior Engineering Manager, Colearn
-(July 2021 - Now)
+(July 2021 - July 2023)
 
  - Led the Live Classes and Monetisation Verticals of Colearn.
  - Built new-age platforms for students to have the best online class experience.

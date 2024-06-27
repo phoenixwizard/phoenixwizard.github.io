@@ -3,6 +3,12 @@ permalink: /portfolio/
 title: "About / Portfolio"
 ---
 
+<script>
+    !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags getFeatureFlag getFeatureFlagPayload reloadFeatureFlags group updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures getActiveMatchingSurveys getSurveys getNextSurveyStep onSessionId".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+    posthog.init('phc_kYT7Ts2ziPfba2IN7I8Rw2o7qt65nYoXebYqB6Q2pJx',{api_host:'https://us.i.posthog.com', person_profiles: 'identified_only' // or 'always' to create profiles for anonymous users as well
+        })
+</script>
+
 <img src="/assets/images/office1.jpg" alt="Aram brewing coffee" style="max-width: 600px;"/>
 
 
@@ -18,8 +24,11 @@ Expertise in building scalable systems with good knowledge of infrastructure/Dev
 #### Head of Engineering, Consolidate Health
 (August 2023 - Present)
 
- - Helping patients get control of their health data
- - Build and manage 1 stop solution to view health records from multiple platforms
+ - Helping patients get control of their health data.
+ - Scoped & built the patient MVP app letting patients access their health records covering 6000+ healthcare—facilities in the USA.
+ - Helping doctors perform chart abstraction and surfacing the most relevant information using Gen AI and LLMs.
+ - Set up HIPAA-compliant cloud architecture on AWS and ensured the building of a system with the highest security standards, regularly audited by 3rd party vendors. 
+ - Set up integrations with major EHRs and set product roadmap for provider application.
 
 ****
 
@@ -58,7 +67,7 @@ Expertise in building scalable systems with good knowledge of infrastructure/Dev
 ****
 
 #### Head of Technology
-PoshVine (June 2015 - January 2017)
+PoshVine (Acquired by Razorpay) (June 2015 - January 2017)
 
 - Built a one-click multi-tenant loyality platform to launch dining programs within minutes.
 - Developed an analytical suite for brands to monitor health of programs.
@@ -142,7 +151,8 @@ Kuliza Technologies  (January 2011 - June 2012)<br>
 - Html & CSS & Javascript (8+ years)
 
 ### TALKS
-[JSFOO 2019 -  Talk by Aram Bhusal on "Redis Anti-Patterns"](https://youtu.be/V532pU-7zW8) <br><br>
+[AWS Community Day UAE 2023 - Talk by Aram Bhusal on "ElastiCache Anti-Patterns"](https://speakerdeck.com/phoenixwizard/elastic-cache-antipatterns-aws-community-day-uae) <br>
+[JSFOO 2019 -  Talk by Aram Bhusal on "Redis Anti-Patterns"](https://youtu.be/V532pU-7zW8) <br>
 [RubyConf 2018 -  Talk by Aram Bhusal on "Multi-tenant applications and challenges I faced"](https://www.youtube.com/watch?v=cadhbLZ5HRQ) <br>
 
 
